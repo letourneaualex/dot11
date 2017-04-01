@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+h1    {
+	text-align: center;
+	font-size:200%;
+	font-family: 'Orbitron', sans-serif;
+}
+h2    {
+	text-align: center;
+	font-size:150%;
+	font-family: 'Orbitron', sans-serif;
+}
+p    {
+	text-align: center;
+	font-size:125%;
+	font-family: 'Orbitron', sans-serif;
+}
+ul    {
+  list-style-type: none;
+	text-align: center;
+	font-size:125%;
+	font-family: 'Orbitron', sans-serif;
+}
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+footer {
+    background-color: black;
+    color: white;
+  }
