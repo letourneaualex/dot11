@@ -1,27 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 h1    {
   margin-bottom: 25px;
-  text-align: center;
+  margin-left: 50px;
+  text-align: left;
 	font-size:200%;
 	font-family: 'Orbitron', sans-serif;
 }
 h2    {
   margin-top: 25px;
   margin-bottom: 0px;
-	text-align: center;
+	margin-left: 50px;
+  text-align: left;
 	font-size:150%;
 	font-family: 'Orbitron', sans-serif;
 }
 p    {
   margin-top: 0px;
-  text-align: center;
+  margin-left: 50px;
+  text-align: left;
 	font-size:125%;
 	font-family: 'Orbitron', sans-serif;
 }
 ul    {
   margin-top: 0px;
   list-style-type: none;
-	text-align: center;
+	margin-left: 50px;
+  text-align: left;
 	font-size:125%;
 	font-family: 'Orbitron', sans-serif;
 }
@@ -37,5 +41,6 @@ ul    {
 footer {
     background-color: white;
     color: black;
-    text-align: center;
+    margin-left: 50px;
+	  text-align: left;;
   }
